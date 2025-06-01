@@ -1,1 +1,1 @@
-# Desafio: Criando seu Primeiro Jogo 2d com Godot.
+# Desafio: Criando meu Primeiro Jogo 2d com Godot.
